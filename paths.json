@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/riead/riead-2026-2-5-10-37-5/:/",
+      "/content/riead/riead-2026-2-5-10-37-5/configuration:/.helix/config.json",
+      "/content/riead/riead-2026-2-5-10-37-5/metadata:/metadata.json",
+      "/content/riead/riead-2026-2-5-10-37-5/configs:/configs.json",
+      "/content/riead/riead-2026-2-5-10-37-5/configs-stage:/configs-stage.json",
+      "/content/riead/riead-2026-2-5-10-37-5/configs-dev:/configs-dev.json",
+      "/content/riead/riead-2026-2-5-10-37-5/redirects:/redirects.json",
+      "/content/riead/riead-2026-2-5-10-37-5/placeholders:/placeholders.json",
+      "/content/riead/riead-2026-2-5-10-37-5/products/recommended-products:/products/recommended-products.json",
+      "/content/riead/riead-2026-2-5-10-37-5/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/riead/riead-2026-2-5-10-37-5/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/riead/riead-2026-2-5-10-37-5",
       "/content/dam/citisignal/images/products/"
     ]
 }
